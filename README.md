@@ -1,4 +1,4 @@
-# cWNv9ytP
+# QuestionsApp
 
 Netlify Deployed Link : https://5questions.netlify.app/
 
